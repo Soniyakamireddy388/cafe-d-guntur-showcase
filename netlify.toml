@@ -1,0 +1,14 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+  # Targets Netlify Functions instead of the default Cloudflare Workers output.
+  NITRO_PRESET = "netlify"
+
+# Server-side rendering + any /api routes are handled by the generated
+# Netlify function in .netlify/functions-internal/server.
+[functions]
+  directory = ".netlify/functions-internal"
+  node_bundler = "none"
