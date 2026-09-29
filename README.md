@@ -458,18 +458,6 @@ Final output:
 
 A premium human-designed restaurant website with luxury animations, responsive layout, interactive menu, AI assistant, WhatsApp integration, map integration and modern cafe branding.add the 1st image uploaded to the brand logo webste logo the 2nd image uploaded ones to the webpage background of the page the 2nd images to remaining add all to our cafe like gallery insoide it
 
-This project was built with [Lovable](https://lovable.dev).
-
-**Live app**: https://cafe-d-guntur-showcase.lovable.app
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/1b0b6ab3-3091-4a08-812a-1815974d610a).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
 ## Development
 
 Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
